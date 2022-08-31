@@ -1,6 +1,6 @@
 # shg-eo.github.io
 
-# My forcused repositories.
+# My focused repositories.
 1. [Skkleton-AZIK](https://github.com/shg-eo/skkeleton-azik)  
 AZIK keymap on Skkeleton.
 2. [BugFire!](https://github.com/shg-eo/BugFire)  
